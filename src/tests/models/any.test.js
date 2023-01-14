@@ -1,6 +1,6 @@
 /**
  * This module contains unit test for user model
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 
 const assert = require('chai').assert

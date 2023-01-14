@@ -4,7 +4,7 @@
 const BaseRepository = require('./base')
 
 /**
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  * @description This class extends the BaseRepository class.
  * This is a dependency for the OrderController class.
  */

@@ -1,6 +1,6 @@
 /**
  * Any Model. Defining Any schema using mongoose
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  * @created Nov 11, 2020
  */
 

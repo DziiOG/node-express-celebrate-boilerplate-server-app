@@ -1,7 +1,7 @@
 /**
  * @summary
  * This is the configuration file for the application enviroment variables
- * @author Chinedu Ekene Okpala  <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah  <workwithwhitson@gmail.com>
  */
 module.exports.name = 'envs'
 module.exports.dependencies = false

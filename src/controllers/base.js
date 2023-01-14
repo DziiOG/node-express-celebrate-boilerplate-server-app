@@ -3,7 +3,7 @@
 const EventEmitter = require('eventemitter3')
 
 /**
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  * @summary This class handles the http requests.
  * @description This is a base controller class which provides basic API endpoints methods
  * for handling http requests.This class must be extended by other controller sub class.

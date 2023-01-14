@@ -1,5 +1,5 @@
 /**
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  * @summary
  * This modules represents the response modules which defines
  * all the response (res) in this application

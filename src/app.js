@@ -7,7 +7,7 @@
 require('dotenv').config()
 
 // Setup hilary DI
-const scope = require('hilary').scope('CFBuyerAPI')
+const scope = require('hilary').scope('todolist')
 
 scope.bootstrap(
   [
@@ -17,7 +17,6 @@ scope.bootstrap(
     scope.makeRegistrationTask(require('./libs')),
     scope.makeRegistrationTask(require('./routers')),
     scope.makeRegistrationTask(require('./validators')),
-    scope.makeRegistrationTask(require('./middlewares')),
     scope.makeRegistrationTask(require('./controllers')),
     scope.makeRegistrationTask(require('./repositories')),
     scope.makeRegistrationTask(require('./models'))

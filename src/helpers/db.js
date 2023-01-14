@@ -1,5 +1,5 @@
 /**
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  * @description
  * This Factory handles database environment selection and
  * also creates a connection string for connecting to a

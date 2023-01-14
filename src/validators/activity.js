@@ -1,6 +1,6 @@
 /**
  *Task Validations. Defining order validations schema using celebrate
- * @author Chinedu Ekene Okpala
+ * @author Whitson Dzimah
  */
 module.exports.name = 'ActivityValidations'
 module.exports.dependencies = ['celebrate']

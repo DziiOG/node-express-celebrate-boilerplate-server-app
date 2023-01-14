@@ -2,7 +2,7 @@
  * @summary
  * This is the configuration file for database connnections
  * It decides which database to connect to based on the environment settings
- * @author Chinedu Ekene Okpala  <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah  <workwithwhitson@gmail.com>
  */
 
 module.exports.name = 'db'

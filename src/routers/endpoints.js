@@ -2,7 +2,7 @@
  * @summary
  * This modules represents the endpoints construct for admin related API request.
  * All middlewares required for each endpoint methods are resgistered here
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 
 module.exports.name = 'endpoints'

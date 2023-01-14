@@ -2,7 +2,7 @@
  * @summary
  * This is the configuration file for the applicaiton logger
  * It debugs messages to the console and logs error to a file in the logs/
- * @author Chinedu Ekene Okpala  <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah  <workwithwhitson@gmail.com>
  */
 
 module.exports.name = 'logger'

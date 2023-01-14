@@ -1,6 +1,6 @@
 /**
  * This module contains integration tests for user repository
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 
 process.env.NODE_ENV = 'TEST'

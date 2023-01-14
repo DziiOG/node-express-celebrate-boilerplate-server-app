@@ -1,6 +1,6 @@
 /**
  * This module contains integration tests for user controller
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 
 // import test dependencies

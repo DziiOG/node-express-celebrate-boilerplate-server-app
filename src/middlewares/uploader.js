@@ -2,7 +2,7 @@
 'use strict'
 
 /**
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  * @summary Uploader middleware
  * @name Uploader
  */

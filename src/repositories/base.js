@@ -2,7 +2,7 @@
 'use strict'
 
 /**
- * @author Chinedu Ekene Okpala  <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah  <workwithwhitson@gmail.com>
  * @summary This class provides an interface to the model methods perform
  * CRUD related functionalities
  * @description This is a base repository class which provides basic

@@ -1,6 +1,6 @@
 /**
  * Test initialization file containing required packages for most tests
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 
 // set environment to test

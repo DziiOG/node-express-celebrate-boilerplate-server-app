@@ -1,6 +1,6 @@
 /**
  *Task Validations. Defining order validations schema using celebrate
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 module.exports.name = 'FarmFeedValidations'
 module.exports.dependencies = ['celebrate']

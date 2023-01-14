@@ -1,6 +1,6 @@
 /**
  * Order Validations. Defining order validations schema using celebrate
- * @author Chinedu Ekene Okpala
+ * @author Whitson Dzimah
  */
 module.exports.name = 'MiscValidations'
 module.exports.dependencies = ['celebrate']

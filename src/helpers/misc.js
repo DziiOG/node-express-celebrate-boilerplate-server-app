@@ -1,7 +1,7 @@
 /* eslint-disable space-before-function-paren */
 /**
  * Order Model. Defining order schema using mongoose
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 
 module.exports.name = 'miscHelpers'

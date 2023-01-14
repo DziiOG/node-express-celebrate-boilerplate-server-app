@@ -2,7 +2,7 @@
  * @summary
  * This modules represents the router modules which defines
  * all the routes (endpoints) in this application
- * @author Chinedu Ekene Okpala <chinedu.okpala@completefarmer.com>
+ * @author Whitson Dzimah <workwithwhitson@gmail.com>
  */
 
 module.exports.name = 'routers'
